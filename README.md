@@ -1,7 +1,7 @@
-# Python-Project
+# BASH-Project
 Project 1
 
-Given three integers (, , and ) representing the three sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
+Given three integers (X,Y, and Z) representing the three sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
 
 -->If all three sides are equal, output EQUILATERAL.
 -->Otherwise, if any two sides are equal, output ISOSCELES.
