@@ -25,3 +25,5 @@ then
 else
     echo "SCALENE"
 fi
+
+
