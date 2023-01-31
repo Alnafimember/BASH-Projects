@@ -15,11 +15,14 @@ if [ $x == $y ];
 then
     if [ $x == $z ];
     then 
-    echo "EQUILATERAL"
+        echo "EQUILATERAL"
     else
-    echo "ISOSCELES"
+        echo "ISOSCELES"
 fi
 elif [ $x == $z]
+then
+    echo "ISOSCELES"
+elif [ $y == $z]
 then
     echo "ISOSCELES"
 else
