@@ -1,0 +1,19 @@
+Introduction to loop in bash scripting:
+
+---->> What is loop?
+			A loop is a sequence of instruction that is continulley repeadtled untill the certain condition reach.
+			
+			Types of loop:
+			1:for loop
+			2:while loop
+			3:until loop
+			4:select case loop
+			
+			For loop 
+			syntax:
+			for variable in list 
+			do 
+					statement
+			done
+			
+			
